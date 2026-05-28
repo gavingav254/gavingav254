@@ -63,10 +63,6 @@ Based in **Nairobi, Kenya** 🇰🇪 | Operating globally.
   <img src="https://img.shields.io/badge/Visual_Automation-Design_Systems-00ff9d?style=for-the-badge"/>
 </p>
 
----
-
-## 🐍 GitHub Contribution Snake
-
 ## 🐍 GitHub Contribution Snake
 
 <div align="center">
