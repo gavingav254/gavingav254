@@ -1,10 +1,10 @@
 <!-- 🔥 HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:1a3c4d,100:2c5364&height=280&section=header&text=Gavin%20Tyler&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%20Orchestrator%20%E2%80%A2%20Systems%20Architect&descAlign=62&descSize=18" alt="Gavin Tyler Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f2027,50:1a3c4d,100:2c5364&height=280&section=header&text=Gavin%20Tyler&fontSize=48&fontColor=ffffff&animation=twinkling&desc=AI%20Orchestrator%20%E2%80%A2%20Systems%20Architect&descAlign=62&descSize=18" alt="Gavin Chesebe Banner" />
 </p>
 
 <div align="center">
-  <h1>🚀 Gavin Tyler</h1>
+  <h1>🚀 Gavin Chesebe</h1>
   <p><strong>AI Orchestrator • Automation Architect • Digital Systems Builder</strong></p>
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+build+systems+that+work+while+you+sleep;Turning+ideas+into+intelligent+ecosystems;AI+Automation+%7C+n8n+%7C+Intelligent+Workflows&center=true&width=600&height=50&color=00d4ff&size=24&speed=30" alt="Typing SVG" />
@@ -49,18 +49,26 @@ Based in **Nairobi, Kenya** 🇰🇪 | Operating globally.
   <img src="https://img.shields.io/badge/OpenAI-GPT_4o-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prompt_Engineering-Expert-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_System_Design-Advanced-000000?style=for-the-badge"/>
 </p>
 
-### 💻 Languages & Development
+### 💻 Languages & Runtime
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,sql,bash,git,github,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,nodejs,bash" />
 </p>
 
-### 🎨 Creative AI
+### 💾 Databases
 <p align="center">
-  <img src="https://img.shields.io/badge/AI_Content_Generation-FF69B4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Visual_Automation-Design_Systems-00ff9d?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</p>
+
+### 🚀 DevOps & Infrastructure
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
+
+### ☁️ Cloud & Hosting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,vercel,railway,render" />
 </p>
 
 ## 🐍 GitHub Contribution Snake
