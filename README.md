@@ -75,43 +75,27 @@ Based in **Nairobi, Kenya** 🇰🇪 | Operating globally.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight&bg_color=1a1b27&hide_border=false&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=30363d&hide_border=false" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=tokyonight&bg_color=1a1b27&hide_border=false)
 
 ---
 
 ## 🔥 GitHub Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=gavingav254&theme=tokyonight&background=%231a1b27&border=%2330363d" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com/?user=gavingav254&theme=tokyonight&background=%231a1b27&hide_border=false)
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=30363d&point=58a6ff&area_color=161b22&title_color=58a6ff&hide_border=true" alt="Contribution Graph" />
-</div>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=30363d&point=58a6ff&area_color=161b22&title_color=58a6ff&hide_border=true)
 
 ---
 
 ## 🐍 GitHub Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-  </picture>
-</div>
-
-> *Watch my contributions come alive — retro snake style!*
+![Contribution Snake](https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake.svg)
 
 ---
 
