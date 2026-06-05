@@ -73,24 +73,30 @@ Based in **Nairobi, Kenya** 🇰🇪 | Operating globally.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" />
-</div>
+<p align="center">
+  <a href="https://github.com/gavingav254">
+    <img src="https://github-readme-stats.vercel.app/api?username=gavingav254&show_icons=true&theme=tokyonight&bg_color=1a1b27&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gavingav254&layout=compact&theme=tokyonight&bg_color=1a1b27&border_color=30363d&hide_border=false" alt="Top Languages" width="48%"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gavingav254&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <a href="https://github.com/gavingav254">
+    <img src="https://streak-stats.demolab.com/?user=gavingav254&theme=tokyonight&background=%231a1b27&border=%2330363d" alt="GitHub Streak" width="50%"/>
+  </a>
+</p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/gavingav254">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gavingav254&theme=tokyo-night&bg_color=1a1b27&color=58a6ff&line=30363d&point=58a6ff&area_color=161b22&title_color=58a6ff&hide_border=true" alt="Contribution Graph" width="90%"/>
+  </a>
+</p>
 
 ---
 
