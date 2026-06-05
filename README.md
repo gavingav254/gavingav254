@@ -95,7 +95,9 @@ Based in **Nairobi, Kenya** 🇰🇪 | Operating globally.
 
 ## 🐍 GitHub Contribution Snake
 
-![Contribution Snake](https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/gavingav254/gavingav254/output/github-contribution-grid-snake-dark.svg)
+
+> *Watch my contributions come alive — retro snake style!*
 
 ---
 
